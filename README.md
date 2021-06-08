@@ -1,6 +1,6 @@
 
 
-### task
+#### task
 
 Your task is to accomplish the following:
 
@@ -14,6 +14,6 @@ Deliver a webpage where a user can view live, updating heartbeats from the senso
 Deliver a script that can emulate one or many sensors by sending emulated heartbeats to the "heartbeats" endpoint.
 Bonus Points: Build or tell us how you would include a way to alert users if a sensor hasn’t sent a heartbeat in the last 10 minutes.
 
-### database
+#### database
 
 ![alt text](https://github.com/taixingbi/sensors-monitor/blob/main/backend-django/QuickDBD-export.png)
