@@ -22,8 +22,9 @@ model is here https://github.com/taixingbi/sensors-monitor/blob/main/backend-dja
 
 
 #### emulated heartbeats
-https://github.com/taixingbi/sensors-monitor/blob/main/backend-django/generateHeart.py
-for serialNumbers= [1, 2] , generate heartbeats 
+for serialNumbers= [1, 2] , generate heartbeats. 
+
+script is here https://github.com/taixingbi/sensors-monitor/blob/main/backend-django/generateHeart.py
 
 
 
