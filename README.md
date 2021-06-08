@@ -26,5 +26,9 @@ for serialNumbers= [1, 2] , generate heartbeats.
 
 script is here https://github.com/taixingbi/sensors-monitor/blob/main/backend-django/generateHeart.py
 
+#### alert 
+if a sensor hasn’t sent a heartbeat in the last 10 minutes, will sent email to admin.     
+email sent is here https://github.com/taixingbi/sensors-monitor/blob/main/backend-django/aws/ses.py
+
 
 
