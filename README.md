@@ -21,7 +21,7 @@ Bonus Points: Build or tell us how you would include a way to alert users if a s
 ![alt text](https://github.com/taixingbi/sensors-monitor/blob/main/backend-django/QuickDBD-export.png)
 
 
-![alt text](https://github.com/taixingbi/sensors-monitor/blob/main/video.mp4)
+![alt video](https://github.com/taixingbi/sensors-monitor/blob/main/video.mp4)
 
 model is here https://github.com/taixingbi/sensors-monitor/blob/main/backend-django/database/models.py
 
