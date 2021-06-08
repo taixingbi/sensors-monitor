@@ -16,4 +16,4 @@ Bonus Points: Build or tell us how you would include a way to alert users if a s
 
 ### database
 
-
+![alt text](https://github.com/taixingbi/sensors-monitor/blob/main/backend-django/QuickDBD-export.png)
