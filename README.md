@@ -5,27 +5,9 @@ source my_env/bin/activate
 pip install -r requirements.txt
 ```
 
-### run migrate
-##### packaging up your model changes
-```
-python manage.py makemigrations 
-```
-##### applying those to your database.
-```
-python manage.py migrate 
-Username: test
-Password: test
-```
-
-### run local
-```
-python manage.py runserver 0.0.0.0:8083
-python manage.py createsuperuser
-```
-
 
 ### task
-```
+
 Your task is to accomplish the following:
 
 Use Django (or some similar Python web framework) to build a web application
@@ -38,4 +20,6 @@ Deliver a webpage where a user can view live, updating heartbeats from the senso
 Deliver a script that can emulate one or many sensors by sending emulated heartbeats to the "heartbeats" endpoint.
 Bonus Points: Build or tell us how you would include a way to alert users if a sensor hasn’t sent a heartbeat in the last 10 minutes.
 
-```
+### database
+
+
